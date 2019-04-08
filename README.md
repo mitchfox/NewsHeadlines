@@ -1,2 +1,0 @@
-# NewsHeadlines
-Created with CodeSandbox
